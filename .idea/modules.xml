@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Dropbox/sonoma/AndroidTestApp/AndroidTestApp.iml" filepath="$USER_HOME$/Dropbox/sonoma/AndroidTestApp/AndroidTestApp.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/sonoma/AndroidTestApp/app/app.iml" filepath="$USER_HOME$/Dropbox/sonoma/AndroidTestApp/app/app.iml" />
+    </modules>
+  </component>
+</project>
